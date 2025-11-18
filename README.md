@@ -1,7 +1,10 @@
 # NFL-ML
 
-![NFL](images/nfl_ml.png)
+<div align="center">
+  <img src="images/nfl_ml.png" alt="NFL" width="300">
+</div>
 
+---
 
 ## Dataset example
 
@@ -37,3 +40,5 @@
 - **High Completeness (>90%)**: Player names, scoring events
 - **Moderate (50-90%)**: Advanced metrics, player IDs
 - **Lower (<10%)**: Defensive details, penalty info
+
+---
