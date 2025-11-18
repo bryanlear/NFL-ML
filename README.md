@@ -1,5 +1,8 @@
 # NFL-ML
 
+![NFL](images/nfl_ml.png)
+
+
 ## Dataset example
 
 - **Source**: NFL play-by-play 2024 season
