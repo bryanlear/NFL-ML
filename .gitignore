@@ -9,7 +9,6 @@ pyvenv.cfg
 raw_data/
 reports/
 *.parquet
-*.csv
 *.xlsx
 
 # Python

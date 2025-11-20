@@ -56,3 +56,5 @@ w_{ij}(\beta_i - \log(e^{\beta_i}+e^{\beta_j}))
 +
 w_{ji}(\beta_j - \log(e^{\beta_i}+e^{\beta_j}))
 \right]$
+
+Function of parameters $\beta=(\beta_1,...,\beta_n)$ and used to estimate parameters by e.g., maximizing likelihood. Lastly, it aggregfates contribution from **all matches**! $L(\beta|data)$
